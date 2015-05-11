@@ -3,7 +3,7 @@
 - = Got it, was web, is disabled
 + = Got it, was web, re-enabled for browsing
 
- GTE CyberTrust Global Root 
+.CyberTrust Global Root 
  Thawte Server CA 
  Thawte Premium Server CA 
 -Equifax Secure CA 
@@ -16,7 +16,7 @@
 -Baltimore CyberTrust Root 
 .Equifax Secure Global eBusiness CA 1 
 .Equifax Secure eBusiness CA 1 
--AddTrust Low-Value Services (Class 1) Root 
+-AddTrust Low-Value Services Root 
 -AddTrust External Root 
 -AddTrust Public Services Root 
 -AddTrust Qualified Certificates Root 
@@ -64,7 +64,7 @@
 -GeoTrust Primary Certification Authority 
 -thawte Primary Root CA 
 -VeriSign Class 3 Public Primary Certification Authority - G5 
- SecureTrust CA 
+-SecureTrust CA 
 -Secure Global CA 
 -COMODO Certification Authority 
 -Network Solutions Certificate Authority 
@@ -158,8 +158,29 @@
 -WoSign 
 -WoSign China
 
-.SwissSign Platinum CA - G2 
+-CFCA EV Root
+-COMODO RSA Certification Authority
+-ComSign CA
+.S-TRUST Authentication and Encryption Root CA 2005:PN
+.S-TRUST Universal Root CA
 .TC TrustCenter Universal CA III 
+.Digital Signature Trust Co. Global CA 1
+.Digital Signature Trust Co. Global CA 3
+-Entrust Root Certification Authority - G2 
+-Entrust Root Certification Authority - EC1 
+-GlobalSign ECC Root CA - R5 
+-GlobalSign ECC Root CA - R4 
+-IdenTrust Commercial Root CA 1
+-IdenTrust Public Sector CA 1
+.NetLock Qualified (Class QA) Root 
+.NetLock Business (Class B) Root 
+.NetLock Express (Class C) Root 
+.SG TRUST SERVICES RACINE
+.AC Raíz Certicámara S.A.
+.Sonera Class 1 CA
+-Staat der Nederlanden EV Root CA 
+-Staat der Nederlanden Root CA - G3
+.SwissSign Platinum CA - G2 
 -USERTrust ECC Certification Authority 
 -USERTrust RSA Certification Authority
 .UTN USERFirst Network Applications
