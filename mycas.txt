@@ -10,8 +10,8 @@
 .Verisign Class 3 Public Primary Certification Authority - G2 
 -GlobalSign Root CA 
 -GlobalSign Root CA - R2 
--Verisign Class 3 Public Primary Certification Authority - G3 
--Verisign Class 4 Public Primary Certification Authority - G3 
++Verisign Class 3 Public Primary Certification Authority - G3 
++Verisign Class 4 Public Primary Certification Authority - G3 
 -Entrust.net Premium 2048 Secure Server CA 
 -Baltimore CyberTrust Root 
 .Equifax Secure Global eBusiness CA 1 
@@ -63,7 +63,7 @@
 -SwissSign Silver CA - G2 
 +GeoTrust Primary Certification Authority 
 -thawte Primary Root CA 
--VeriSign Class 3 Public Primary Certification Authority - G5 
++VeriSign Class 3 Public Primary Certification Authority - G5 
 -SecureTrust CA 
 -Secure Global CA 
 -COMODO Certification Authority 
@@ -93,8 +93,8 @@
 -thawte Primary Root CA - G2 
 -thawte Primary Root CA - G3 
 +GeoTrust Primary Certification Authority - G2 
--VeriSign Universal Root Certification Authority 
--VeriSign Class 3 Public Primary Certification Authority - G4 
++VeriSign Universal Root Certification Authority 
++VeriSign Class 3 Public Primary Certification Authority - G4 
 -NetLock Arany (Class Gold) Főtanúsítvány 
 -Staat der Nederlanden Root CA - G2 
 -CA Disig 
@@ -193,4 +193,4 @@
 .Verisign Class 2 Public Primary Certification Authority - G3
 .Verisign Class 1 Public Primary Certification Authority
 .Verisign Class 3 Public Primary Certification Authority (PKCS #1 SHA-1 With RSA Encryption)
-.Verisign Secure Server CA - G2
+.Verisign Class 3 Secure Server CA - G2
