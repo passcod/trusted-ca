@@ -45,7 +45,7 @@
 -Camerfirma Chambers of Commerce Root 
 -Camerfirma Global Chambersign Root 
 -NetLock Notary (Class A) Root 
- XRamp Global CA Root 
+-XRamp Global CA Root 
 -Go Daddy Class 2 CA 
 -Starfield Class 2 CA 
 -StartCom Certification Authority 
@@ -68,11 +68,11 @@
 -Secure Global CA 
 -COMODO Certification Authority 
 -Network Solutions Certificate Authority 
- WellsSecure Public Root Certificate Authority 
+-WellsSecure Public Root Certificate Authority 
 -COMODO ECC Certification Authority 
 -IGC/A 
 -Security Communication EV RootCA1 
- OISTE WISeKey Global Root GA CA 
+-OISTE WISeKey Global Root GA CA 
 -Microsec e-Szigno Root CA 
 -Certigna 
 -TC TrustCenter Class 2 CA II 
@@ -155,8 +155,8 @@
 -DigiCert Global Root G2 
 -DigiCert Global Root G3 
 -DigiCert Trusted Root G4 
- WoSign 
- WoSign China
+-WoSign 
+-WoSign China
 
 .SwissSign Platinum CA - G2 
 .TC TrustCenter Universal CA III 
