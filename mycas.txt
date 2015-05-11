@@ -23,10 +23,10 @@
 -USERTrust Legacy Secure Server CA
 -Entrust Root Certification Authority 
 -RSA Security 2048 v3 
--GeoTrust Global CA 
--GeoTrust Global CA 2 
--GeoTrust Universal CA 
--GeoTrust Universal CA 2 
++GeoTrust Global CA 
++GeoTrust Global CA 2 
++GeoTrust Universal CA 
++GeoTrust Universal CA 2 
  America Online Root Certification Authority 1 
  America Online Root Certification Authority 2 
 -Visa eCommerce Root 
@@ -61,7 +61,7 @@
 -TURKTRUST Certificate Services Provider Root 2 
 -SwissSign Gold CA - G2 
 -SwissSign Silver CA - G2 
--GeoTrust Primary Certification Authority 
++GeoTrust Primary Certification Authority 
 -thawte Primary Root CA 
 -VeriSign Class 3 Public Primary Certification Authority - G5 
 -SecureTrust CA 
@@ -89,10 +89,10 @@
 -certSIGN ROOT CA 
 -CNNIC ROOT 
 -ApplicationCA - Japanese Government 
--GeoTrust Primary Certification Authority - G3 
++GeoTrust Primary Certification Authority - G3 
 -thawte Primary Root CA - G2 
 -thawte Primary Root CA - G3 
--GeoTrust Primary Certification Authority - G2 
++GeoTrust Primary Certification Authority - G2 
 -VeriSign Universal Root Certification Authority 
 -VeriSign Class 3 Public Primary Certification Authority - G4 
 -NetLock Arany (Class Gold) Főtanúsítvány 
@@ -194,5 +194,3 @@
 .Verisign Class 1 Public Primary Certification Authority
 .Verisign Class 3 Public Primary Certification Authority (PKCS #1 SHA-1 With RSA Encryption)
 .Verisign Secure Server CA - G2
-
-
