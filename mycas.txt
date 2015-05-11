@@ -51,9 +51,9 @@
 -StartCom Certification Authority 
 -Taiwan GRCA 
 -Swisscom Root CA 1 
--DigiCert Assured ID Root CA 
--DigiCert Global Root CA 
--DigiCert High Assurance EV Root CA 
++DigiCert Assured ID Root CA 
++DigiCert Global Root CA 
++DigiCert High Assurance EV Root CA 
 -Certplus Class 2 Primary CA 
 -DST Root CA X3 
 -DST ACES CA X6 
@@ -150,11 +150,11 @@
 -QuoVadis Root CA 1 G3 
 -QuoVadis Root CA 2 G3 
 -QuoVadis Root CA 3 G3 
--DigiCert Assured ID Root G2 
--DigiCert Assured ID Root G3 
--DigiCert Global Root G2 
--DigiCert Global Root G3 
--DigiCert Trusted Root G4 
++DigiCert Assured ID Root G2 
++DigiCert Assured ID Root G3 
++DigiCert Global Root G2 
++DigiCert Global Root G3 
++DigiCert Trusted Root G4 
 -WoSign 
 -WoSign China
 
