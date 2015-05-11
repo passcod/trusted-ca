@@ -8,8 +8,8 @@
  Thawte Premium Server CA 
 -Equifax Secure CA 
  Verisign Class 3 Public Primary Certification Authority - G2 
- GlobalSign Root CA 
- GlobalSign Root CA - R2 
+-GlobalSign Root CA 
+-GlobalSign Root CA - R2 
  Verisign Class 3 Public Primary Certification Authority - G3 
  Verisign Class 4 Public Primary Certification Authority - G3 
 -Entrust.net Premium 2048 Secure Server CA 
@@ -22,7 +22,7 @@
 -AddTrust Qualified Certificates Root 
 -USERTrust Legacy Secure Server CA
 -Entrust Root Certification Authority 
- RSA Security 2048 v3 
+-RSA Security 2048 v3 
 -GeoTrust Global CA 
 -GeoTrust Global CA 2 
 -GeoTrust Universal CA 
@@ -34,23 +34,23 @@
 -Comodo AAA Services root 
 -Comodo Secure Services root 
 -Comodo Trusted Services root 
- QuoVadis Root CA 
- QuoVadis Root CA 2 
- QuoVadis Root CA 3 
- Security Communication Root CA 
- Sonera Class 2 Root CA 
- Staat der Nederlanden Root CA 
+-QuoVadis Root Certification Authority 
+-QuoVadis Root CA 2 
+-QuoVadis Root CA 3 
+-Security Communication Root CA 
+-Sonera Class 2 CA 
+-Staat der Nederlanden Root CA 
  UTN DATACorp SGC Root CA 
  UTN USERFirst Hardware Root CA 
 -Camerfirma Chambers of Commerce Root 
 -Camerfirma Global Chambersign Root 
- NetLock Notary (Class A) Root 
+-NetLock Notary (Class A) Root 
  XRamp Global CA Root 
  Go Daddy Class 2 CA 
- Starfield Class 2 CA 
- StartCom Certification Authority 
- Taiwan GRCA 
- Swisscom Root CA 1 
+-Starfield Class 2 CA 
+-StartCom Certification Authority 
+-Taiwan GRCA 
+-Swisscom Root CA 1 
 -DigiCert Assured ID Root CA 
 -DigiCert Global Root CA 
 -DigiCert High Assurance EV Root CA 
@@ -59,21 +59,21 @@
 -DST ACES CA X6 
  TURKTRUST Certificate Services Provider Root 1 
  TURKTRUST Certificate Services Provider Root 2 
- SwissSign Gold CA - G2 
- SwissSign Silver CA - G2 
+-SwissSign Gold CA - G2 
+-SwissSign Silver CA - G2 
 -GeoTrust Primary Certification Authority 
  thawte Primary Root CA 
  VeriSign Class 3 Public Primary Certification Authority - G5 
  SecureTrust CA 
- Secure Global CA 
+-Secure Global CA 
 -COMODO Certification Authority 
- Network Solutions Certificate Authority 
+-Network Solutions Certificate Authority 
  WellsSecure Public Root Certificate Authority 
 -COMODO ECC Certification Authority 
- IGC/A 
- Security Communication EV RootCA1 
+-IGC/A 
+-Security Communication EV RootCA1 
  OISTE WISeKey Global Root GA CA 
- Microsec e-Szigno Root CA 
+-Microsec e-Szigno Root CA 
 -Certigna 
  TC TrustCenter Class 2 CA II 
  TC TrustCenter Class 3 CA II 
@@ -88,30 +88,30 @@
 -EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xc4\xb1\x63\xc4\xb1s\xc4\xb1 
 -certSIGN ROOT CA 
 -CNNIC ROOT 
- ApplicationCA - Japanese Government 
+-ApplicationCA - Japanese Government 
 -GeoTrust Primary Certification Authority - G3 
  thawte Primary Root CA - G2 
  thawte Primary Root CA - G3 
 -GeoTrust Primary Certification Authority - G2 
  VeriSign Universal Root Certification Authority 
  VeriSign Class 3 Public Primary Certification Authority - G4 
- NetLock Arany (Class Gold) Főtanúsítvány 
- Staat der Nederlanden Root CA - G2 
+-NetLock Arany (Class Gold) Főtanúsítvány 
+-Staat der Nederlanden Root CA - G2 
 -CA Disig 
 -Juur-SK 
- Hongkong Post Root CA 1 
- SecureSign RootCA11 
+-Hongkong Post Root CA 1 
+-SecureSign RootCA11 
 -ACEDICOM Root 
- Microsec e-Szigno Root CA 2009 
+-Microsec e-Szigno Root CA 2009 
  E-Guven Kok Elektronik Sertifika Hizmet Saglayicisi 
- GlobalSign Root CA - R3 
+-GlobalSign Root CA - R3 
 -Autoridad de Certificacion Firmaprofesional CIF A62634068 
- Izenpe.com 
+-Izenpe.com 
 -Chambers of Commerce Root - 2008 
 -Global Chambersign Root - 2008 
- Go Daddy Root Certificate Authority - G2 
- Starfield Root Certificate Authority - G2 
- Starfield Services Root Certificate Authority - G2 
+-Go Daddy Root Certificate Authority - G2 
+-Starfield Root Certificate Authority - G2 
+-Starfield Services Root Certificate Authority - G2 
 -AffirmTrust Commercial 
 -AffirmTrust Networking 
 -AffirmTrust Premium 
@@ -121,13 +121,13 @@
 -Root CA Generalitat Valenciana 
 -A-Trust-nQual-03 
  TWCA Root Certification Authority 
- Security Communication RootCA2 
+-Security Communication RootCA2 
 -EC-ACC 
- Hellenic Academic and Research Institutions RootCA 2011 
+-Hellenic Academic and Research Institutions RootCA 2011 
 -Actalis Authentication Root CA 
  Trustis FPS Root CA 
- StartCom Certification Authority 
- StartCom Certification Authority G2 
+-StartCom Certification Authority 
+-StartCom Certification Authority G2 
 -Buypass Class 2 Root CA 
 -Buypass Class 3 Root CA 
  T-TeleSec GlobalRoot Class 3 
@@ -135,10 +135,10 @@
  TURKTRUST Certificate Services Provider Root 2007 
 -D-TRUST Root Class 3 CA 2 2009 
 -D-TRUST Root Class 3 CA 2 EV 2009 
- PSCProcert 
+-PSCProcert 
 -China Internet Network Information Center EV Certificates Root 
- Swisscom Root CA 2 
- Swisscom Root EV CA 2 
+-Swisscom Root CA 2 
+-Swisscom Root EV CA 2 
 -CA Disig Root R1 
 -CA Disig Root R2 
 -ACCVRAIZ1 
@@ -147,13 +147,15 @@
 -E-Tugra Certification Authority 
  T-TeleSec GlobalRoot Class 2 
 -Atos TrustedRoot 2011 
- QuoVadis Root CA 1 G3 
- QuoVadis Root CA 2 G3 
- QuoVadis Root CA 3 G3 
+-QuoVadis Root CA 1 G3 
+-QuoVadis Root CA 2 G3 
+-QuoVadis Root CA 3 G3 
 -DigiCert Assured ID Root G2 
 -DigiCert Assured ID Root G3 
 -DigiCert Global Root G2 
 -DigiCert Global Root G3 
 -DigiCert Trusted Root G4 
  WoSign 
- WoSign China 
+ WoSign China
+
+.SwissSign Platinum CA - G2
