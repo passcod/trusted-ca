@@ -1,0 +1,4 @@
+For some certs, need to View and then check full name.
+I've ignored all "Software Security Device"s, these are only "Builtin Object Token"s.
+
+Starting experiment with 185 certs in browser, 157 of which were previously "Trusted to identify websites" and are now disallowed.
