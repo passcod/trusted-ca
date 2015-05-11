@@ -46,7 +46,7 @@
 -Camerfirma Global Chambersign Root 
 -NetLock Notary (Class A) Root 
 -XRamp Global CA Root 
--Go Daddy Class 2 CA 
++Go Daddy Class 2 CA 
 -Starfield Class 2 CA 
 -StartCom Certification Authority 
 -Taiwan GRCA 
@@ -109,7 +109,7 @@
 -Izenpe.com 
 -Chambers of Commerce Root - 2008 
 -Global Chambersign Root - 2008 
--Go Daddy Root Certificate Authority - G2 
++Go Daddy Root Certificate Authority - G2 
 -Starfield Root Certificate Authority - G2 
 -Starfield Services Root Certificate Authority - G2 
 -AffirmTrust Commercial 
