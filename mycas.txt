@@ -48,7 +48,7 @@
 -XRamp Global CA Root 
 +Go Daddy Class 2 CA 
 +Starfield Class 2 CA 
--StartCom Certification Authority 
++StartCom Certification Authority 
 -Taiwan GRCA 
 -Swisscom Root CA 1 
 +DigiCert Assured ID Root CA 
@@ -126,8 +126,8 @@
 -Hellenic Academic and Research Institutions RootCA 2011 
 -Actalis Authentication Root CA 
 -Trustis FPS Root CA 
--StartCom Certification Authority 
--StartCom Certification Authority G2 
++StartCom Certification Authority 
++StartCom Certification Authority G2 
 -Buypass Class 2 Root CA 
 -Buypass Class 3 Root CA 
 -T-TeleSec GlobalRoot Class 3 
