@@ -16,10 +16,10 @@
 +Baltimore CyberTrust Root 
 .Equifax Secure Global eBusiness CA 1 
 .Equifax Secure eBusiness CA 1 
--AddTrust Low-Value Services Root 
--AddTrust External Root 
--AddTrust Public Services Root 
--AddTrust Qualified Certificates Root 
++AddTrust Low-Value Services Root 
++AddTrust External Root 
++AddTrust Public Services Root 
++AddTrust Qualified Certificates Root 
 -USERTrust Legacy Secure Server CA
 -Entrust Root Certification Authority 
 -RSA Security 2048 v3 
