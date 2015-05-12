@@ -13,7 +13,7 @@
 +Verisign Class 3 Public Primary Certification Authority - G3 
 +Verisign Class 4 Public Primary Certification Authority - G3 
 -Entrust.net Premium 2048 Secure Server CA 
--Baltimore CyberTrust Root 
++Baltimore CyberTrust Root 
 .Equifax Secure Global eBusiness CA 1 
 .Equifax Secure eBusiness CA 1 
 -AddTrust Low-Value Services Root 

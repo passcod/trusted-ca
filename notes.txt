@@ -32,3 +32,7 @@ Procedure is:
   close the commit message.
 6. Push to GitHub.
 7. Go back to 1.b.
+
+When the list of non-working websites from the most-visited ones dwindles to
+zero, check on Alexa Top N for more high-traffic websites that may have been
+overlooked.
