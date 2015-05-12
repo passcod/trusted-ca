@@ -12,7 +12,7 @@
 +GlobalSign Root CA - R2 
 +Verisign Class 3 Public Primary Certification Authority - G3 
 +Verisign Class 4 Public Primary Certification Authority - G3 
--Entrust.net Premium 2048 Secure Server CA 
++Entrust.net Premium 2048 Secure Server CA 
 +Baltimore CyberTrust Root 
 .Equifax Secure Global eBusiness CA 1 
 .Equifax Secure eBusiness CA 1 
@@ -21,7 +21,7 @@
 +AddTrust Public Services Root 
 +AddTrust Qualified Certificates Root 
 -USERTrust Legacy Secure Server CA
--Entrust Root Certification Authority 
++Entrust Root Certification Authority 
 -RSA Security 2048 v3 
 +GeoTrust Global CA 
 +GeoTrust Global CA 2 
@@ -166,8 +166,8 @@
 .TC TrustCenter Universal CA III 
 .Digital Signature Trust Co. Global CA 1
 .Digital Signature Trust Co. Global CA 3
--Entrust Root Certification Authority - G2 
--Entrust Root Certification Authority - EC1 
++Entrust Root Certification Authority - G2 
++Entrust Root Certification Authority - EC1 
 +GlobalSign ECC Root CA - R5 
 +GlobalSign ECC Root CA - R4 
 -IdenTrust Commercial Root CA 1
