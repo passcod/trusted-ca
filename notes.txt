@@ -1,4 +1,34 @@
 For some certs, need to View and then check full name.
-I've ignored all "Software Security Device"s, these are only "Builtin Object Token"s.
 
-Starting experiment with 185 certs in browser, 157 of which were previously "Trusted to identify websites" and are now disallowed.
+I've ignored all "Software Security Device"s, these are only "Builtin Object
+Token"s.
+
+Starting experiment with 185 certs in browser, 157 of which were previously
+"Trusted to identify websites" and are now disallowed.
+
+Procedure is:
+
+1.a. (Only for first iteration) Pick a CA vendor for an important site, say
+  google.com.
+1.b. (For subsequent iterations) Pick the CA vendor of a major website that's
+  not working yet.
+2. Enable *all* root CAs from that vendor. Record the change in the mycas.txt
+  file by changing the `-` to `+`. If a CA was a `.`, do *not* enable it.
+3. Commit the file using `git commit -a`, first line should be:
+    Enable <name of vendor>: <down>-/<up>+
+  where <down> is the number of disabled CAs and <up> the number of enabled
+  ones. Keep the commit file open for the next steps.
+4. Using browser history sorted by "Most Visited", with the console open at
+  the Network tab, check the first 100 or so sites. Skip websites that
+  already worked fully before this CA change. For each check:
+  - If the page refuses to load with a security error, skip.
+  - If the page loads, but some resources fail with security errors, state
+    in a line of the commit body:
+        <sitename>, but not resources on <domainname>
+  - If the page and all its resources load correctly, even after a full
+    no-cache reload (Ctrl-Shift-R), state in a line of the commit body:
+        <sitename>
+5. Once a reasonable amount of websites have been checked, sort the list and
+  close the commit message.
+6. Push to GitHub.
+7. Go back to 1.b.

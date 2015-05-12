@@ -55,8 +55,8 @@
 +DigiCert Global Root CA 
 +DigiCert High Assurance EV Root CA 
 -Certplus Class 2 Primary CA 
--DST Root CA X3 
--DST ACES CA X6 
++DST Root CA X3 
++DST ACES CA X6 
 -TURKTRUST Certificate Services Provider Root 1 
 -TURKTRUST Certificate Services Provider Root 2 
 -SwissSign Gold CA - G2 
