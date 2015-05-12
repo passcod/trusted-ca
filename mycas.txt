@@ -31,9 +31,9 @@
  America Online Root Certification Authority 2 
 -Visa eCommerce Root 
 -Certum Root CA 
--Comodo AAA Services root 
--Comodo Secure Services root 
--Comodo Trusted Services root 
++Comodo AAA Services root 
++Comodo Secure Services root 
++Comodo Trusted Services root 
 -QuoVadis Root Certification Authority 
 -QuoVadis Root CA 2 
 -QuoVadis Root CA 3 
@@ -66,10 +66,10 @@
 +VeriSign Class 3 Public Primary Certification Authority - G5 
 -SecureTrust CA 
 -Secure Global CA 
--COMODO Certification Authority 
++COMODO Certification Authority 
 -Network Solutions Certificate Authority 
 -WellsSecure Public Root Certificate Authority 
--COMODO ECC Certification Authority 
++COMODO ECC Certification Authority 
 -IGC/A 
 -Security Communication EV RootCA1 
 -OISTE WISeKey Global Root GA CA 
@@ -159,7 +159,7 @@
 -WoSign China
 
 -CFCA EV Root
--COMODO RSA Certification Authority
++COMODO RSA Certification Authority
 -ComSign CA
 .S-TRUST Authentication and Encryption Root CA 2005:PN
 .S-TRUST Universal Root CA
